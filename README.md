@@ -45,6 +45,9 @@ Upload do index HTML para o site
 
 <img width="1438" height="614" alt="image" src="https://github.com/user-attachments/assets/8dca8549-2398-4510-8425-a4999809bb1f" />
 
+Lab no ar e funcionando
+
+<img width="951" height="786" alt="image" src="https://github.com/user-attachments/assets/6d7495aa-c94a-489b-a968-49756985aaa3" />
 
 
 
