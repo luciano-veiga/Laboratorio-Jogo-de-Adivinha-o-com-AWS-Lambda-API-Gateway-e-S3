@@ -14,6 +14,14 @@ Essa atividade me ajudou a aprofundar o entendimento sobre arquitetura serverles
 
 🎯 Estou cada vez mais preparado para a certificação AWS Certified Developer – Associate (DVA-C02)!
 
-#Passo a passo da execução
+#Passo a passo da execução 
 
 <img width="1428" height="626" alt="Image" src="https://github.com/user-attachments/assets/a537a138-fc95-4241-9692-30329ceeab87" />
+
+Fazendo upload do codigo - Lambda funcion
+
+<img width="1435" height="625" alt="Image" src="https://github.com/user-attachments/assets/e0a8e382-5f09-43cf-8127-9a22935b80b7" />
+
+Criando API comAmazon API Gateway
+
+<img width="1434" height="580" alt="Image" src="https://github.com/user-attachments/assets/fedc29b5-79d7-40c8-8578-1275e128078b" />
