@@ -1,4 +1,4 @@
-# Laborat-rio---Jogo-de-Adivinha-o-com-AWS-Lambda-API-Gateway-e-S3
+# Laboratorio-Jogo-de-Adivinha-o-com-AWS-Lambda-API-Gateway-e-S3
 
 Finalizei mais um desafio da Escola da Nuvem 💙: um projeto prático de aplicação 100% serverless utilizando os principais serviços da AWS.
 
